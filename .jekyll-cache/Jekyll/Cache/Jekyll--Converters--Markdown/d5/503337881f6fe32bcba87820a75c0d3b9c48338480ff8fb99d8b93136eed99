@@ -1,28 +1,4 @@
-<!doctype html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>About</title>
-		<link rel="stylesheet" href="/assets/css/styles.css">
-	</head>
-	<body>
-		<nav>
-	
-		<a href="/" >
-			Home
-		</a>
-	
-		<a href="/about" >
-			About
-		</a>
-	
-		<a href="/blog.html" >
-			Blog
-		</a>
-	
-</nav>
-
-		<h1 id="about-the-author">About the Author</h1>
+I"×<h1 id="about-the-author">About the Author</h1>
 
 <p>My name is Kyle Salzman, and Iâ€™m a designer and maker living and Working in New Orleans</p>
 
@@ -34,6 +10,4 @@
 <a href="https://github.com/jekyll">jekyll</a> /
 <a href="https://github.com/jekyll/jekyll">jekyll</a></p>
 
-
-	</body>
-</html>
+:ET
